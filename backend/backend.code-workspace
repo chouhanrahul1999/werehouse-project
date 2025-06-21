@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "backend",
+			"path": "."
+		},
+		{
+			"name": "werehouse-frontend",
+			"path": "../../werehouse-frontend"
+		}
+	],
+	"settings": {}
+}
